@@ -93,7 +93,7 @@ Before contributing, please read our [Contributing Guidelines](https://github.co
 
 ## License
 
-Go Advanced Admin is released under the MIT License. See the [LICENSE](https://github.com/go-advanced-admin/admin/blob/main/LICENSE) file for details.
+Go Advanced Admin is released under the Apache 2.0 License. See the [LICENSE](https://github.com/go-advanced-admin/admin/blob/main/LICENSE) file for details.
 
 ## Contact
 
