@@ -97,7 +97,7 @@ Go Advanced Admin is released under the Apache 2.0 License. See the [LICENSE](ht
 
 ## Contact
 
-If you have any questions, suggestions, or need assistance, feel free to open an issue in the relevant repository or contact us via email at [contact@example.com].
+If you have any questions, suggestions, or need assistance, feel free to open an issue in the relevant repository or contact us via email at [help@goadmin.dev].
 
 ---
 
